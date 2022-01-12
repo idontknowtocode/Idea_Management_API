@@ -4,24 +4,6 @@
 
 Application to manage and give wings to your ideas
 
-## Project Setup(Frontend)
-
-1. Fork this repository!
-
-2. Clone this repository and setup a remote to the original repository.
-
-3. Make sure node.js is installed else install it.
-
-4. Open up your IDE and in your terminal run the following commands:
-
- * cd ideas
-
- * npm install
-
- * npm start
-
-5. The project should now be running locally!
-
 
 ## Project Setup(API)
 
@@ -43,7 +25,7 @@ Application to manage and give wings to your ideas
 
 2. The project should now be running locally on port 8000!
 
-
+<a href="https://github.com/idontknowtocode/Idea_Management_frontend">Idea_Management_Frontend</a>
 
 ## Built With
 
